@@ -5,20 +5,21 @@ export const products = [
     name: "Celtify",
     tagline: "Bridging tradition with technology",
     shortDescription: "A platform celebrating Irish culture and heritage through modern technology.",
-    longDescription: "Celtify is our flagship product currently in development at NCI. It aims to preserve and promote Irish cultural heritage through an interactive digital platform. The application allows users to explore traditional music, language, stories, and customs in an engaging and educational format. With Celtify, we're creating a bridge between Ireland's rich cultural past and its technological future.",
+    longDescription: "Celtify is our flagship product currently in development at NCI. It's an AI-powered Celtic language recognition and translation tool designed to preserve endangered languages and promote cultural heritage. The platform includes a groundbreaking VR simulation that allows users to explore ancient Celtic cities while learning languages in an immersive environment. Our solution focuses on context, syntax, handwriting, and cultural nuances, providing a level of accuracy and cultural sensitivity not found in existing translation tools.",
     imageUrl: "/images/products/celtify.jpg",
     status: "In Development",
     features: [
-      "Interactive exploration of Irish music and instruments",
-      "Irish language learning modules with AI-powered pronunciation feedback",
-      "Digital library of traditional stories and folklore",
-      "Virtual tours of historical sites and cultural landmarks",
-      "Community platform for cultural events and discussions"
+      "AI trained specifically for Celtic languages (Irish, Scottish Gaelic, Welsh)",
+      "Context-based, culturally sensitive translations",
+      "VR simulation of historically accurate Celtic environments",
+      "Real-time translation while speaking English in the VR environment",
+      "Adaptive NPC responses to user prompts in the VR experience",
+      "Deep immersion in medieval everyday Celtic life"
     ],
-    technologies: ["React", "Node.js", "MongoDB", "TensorFlow", "AWS"],
+    technologies: ["AI & Machine Learning", "VR/AR", "NLP", "React", "Node.js", "TensorFlow"],
     links: {
-      website: "https://celtify.example.com",
-      github: "https://github.com/your-team/celtify",
+      website: "https://celtify.netlify.app/",
+      github: "https://github.com/Audrey-Ella-xo/celtify",
     }
   }
   // More products can be added here as your team develops them

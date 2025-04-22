@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-xl font-bold mb-4">NCI Team</h3>
+            <h3 className="text-xl font-bold mb-4">Team Selarium</h3>
             <p className="text-gray-300 mb-4">
               A student-led startup team from National College of Ireland, 
               building innovative products to solve real-world problems.
